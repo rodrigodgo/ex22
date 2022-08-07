@@ -7,7 +7,7 @@ body {
 }
 
 .bloco {
-    background-image: url(/imagens/wallpaper003.jpg);
+    background-image: url(imagens/wallpaper003.jpg);
     height: 10%;
     border: 1px solid black;
     border-radius: 20px;
